@@ -6,7 +6,8 @@
   * python3
   * HTML
   * CSS
-  * 
+  * MySQL
+   
 * フレームワーク
   * FastAPI
 
